@@ -26,7 +26,7 @@
       "icon": "https://main--da-block-collection--aemsites.aem.live/media/media_16e7a2074aac8a0f09c8c495ea7acb5fbc0adade4.png"
     }
   ],
-   "apps": [Add commentMore actions
+   "apps": [
     {
       "title": "App demo",
       "description": "This is a sample app using the DA SDK.",
